@@ -1,0 +1,21 @@
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+The requiremnet for this assingment was to make an application that allowed a user to create a new user, login with that user, change the users password.
+Once logged in the user could then change the inventory. They needed to be able to create, read, update, and delete items in the inventory.
+We also needed to make sure that the user had to allow the applicaiiton to access their phone during runtime and send an SMS message.
+
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+There was the first screen that was linked to three other screns, a new user screen,forgot password screen, and the actual inventory scren. I tried to kep the same formate across all the screen to make the applciaition seem fluid.
+
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+I broke each peince up into managable projects. First I created the user login screen then I made the add suer screen, and I mirrired th forgot passowrd screen as the new user screen to make the applicaiiton seem fluid and user friendly.
+I then made hte inventory sceen and for a new item or edit and item I used the same template so the applicaition seems the same for the user. 
+
+How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+I tested it by using my phone in developer mode. This is important to make sure that there are no bugs.
+I had to tackel a lot of bus in my code from calling difference screens at the wrong time but I eventually got the hang of it.
+
+Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+The whole project was slightly comlicated considering I had never used andriod studio before. I had to use my friend YouTube to help familiarize myself with some of the coding concepts.
+
+In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+I think the best part was the actual inventorty to be able to add, edit, readm and delete indivdual items was a reall coll aspect. 
